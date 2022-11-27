@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Greetings from my computer.
+=======
+Greetings from GitHub.
+>>>>>>> b96597b5fe3c6a0b878bf2670905150261cfdcc8
